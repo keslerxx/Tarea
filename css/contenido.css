@@ -1,0 +1,20 @@
+.articulo{
+background-color: #87a9ff;
+border:solid 1px #1b6dcb;
+font-family: Arial;
+font-size: 14px;
+width: 60%;
+overflow: hidden;
+margin : 20px;
+padding: 10px;
+}
+.articulo img {
+float : right;
+padding: 10px;
+}
+.articulo h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #1d24b3;
+}
